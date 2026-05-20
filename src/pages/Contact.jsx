@@ -35,8 +35,8 @@ const Contact = () => {
                 <div className="icon-wrapper"><Mail /></div>
                 <div>
                   <h3>Email</h3>
-                  <p>hello@thanishka.com</p>
-                  <p>support@thanishka.com</p>
+                  <p>tanishkadesingerstudio9@gmail.com</p>
+                  <p>tanishkadesingerstudio9@gmail.com</p>
                 </div>
               </div>
               
@@ -102,11 +102,15 @@ const Contact = () => {
         {/* Map Section */}
         <div className="map-section mt-12">
           <div className="card map-card">
-            <div className="map-placeholder">
-              <MapPin size={40} className="text-primary mb-4" />
-              <h3>Interactive Map Integration</h3>
-              <p>Google Maps iframe will be embedded here.</p>
-            </div>
+            <iframe 
+              width="100%" 
+              height="450" 
+              style={{border: 0}} 
+              loading="lazy" 
+              allowFullScreen="" 
+              referrerPolicy="no-referrer-when-downgrade"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3806.7485968319906!2d78.40750452346926!3d17.383033483695697!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb9eb0f0f0f0f1%3A0x0!2sNizampet%2C%20Hyderabad!5e0!3m2!1sen!2sin!4v1716193200000">
+            </iframe>
           </div>
         </div>
       </div>
