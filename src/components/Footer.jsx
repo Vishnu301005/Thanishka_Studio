@@ -46,11 +46,11 @@ const Footer = () => {
             <ul className="contact-list">
               <li>
                 <MapPin size={18} className="contact-icon" />
-                <span>123 Fashion Street, Boutique Avenue, City, State 12345</span>
+                <span>Plot No. 179/180/181, Sri Manikanta Residency, Bandaru Layout, Road No.3, Nizampet, Hyderabad - 500 090</span>
               </li>
               <li>
                 <Phone size={18} className="contact-icon" />
-                <span>+1 (234) 567-8900</span>
+                <span>+91 8978339811</span>
               </li>
               <li>
                 <Mail size={18} className="contact-icon" />

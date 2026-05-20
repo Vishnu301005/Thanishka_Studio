@@ -24,8 +24,8 @@ const Contact = () => {
                 <div className="icon-wrapper"><Phone /></div>
                 <div>
                   <h3>Phone / WhatsApp</h3>
-                  <p>+1 (234) 567-8900</p>
-                  <a href="https://wa.me/12345678900" className="whatsapp-link mt-2" target="_blank" rel="noreferrer">
+                  <p>+91 8978339811</p>
+                  <a href="https://wa.me/918978339811" className="whatsapp-link mt-2" target="_blank" rel="noreferrer">
                     Message on WhatsApp
                   </a>
                 </div>
@@ -44,8 +44,8 @@ const Contact = () => {
                 <div className="icon-wrapper"><MapPin /></div>
                 <div>
                   <h3>Location</h3>
-                  <p>123 Fashion Street, Boutique Avenue,</p>
-                  <p>City, State 12345</p>
+                  <p>Plot No. 179/180/181, Sri Manikanta Residency,</p>
+                  <p>Bandaru Layout, Road No.3, Nizampet, Hyderabad - 500 090</p>
                 </div>
               </div>
               
